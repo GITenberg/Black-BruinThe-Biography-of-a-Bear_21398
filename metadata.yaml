@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9897'
     url: http://www.gutenberg.org/2009/agents/9897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21398#Black-BruinThe-Biography-of-a-Bear
 gutenberg_issued: '2007-05-09'
 gutenberg_type: Text
 identifiers:
